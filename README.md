@@ -1,4 +1,10 @@
-# Jekyll Garden v 0.4!
+# This is Pup Asgfed's Web Garden.
+
+You will find here most of my public notes, and links to my profiles.
+
+
+
+# I'm using the template : Jekyll Garden v 0.4! All the information about it follows bellow :
 ![Slide 4_3 - 1 (1)](https://user-images.githubusercontent.com/1788677/169704768-65c32d93-7884-47fa-b98c-bc8329acc6a7.png)
 
 
