@@ -11,8 +11,12 @@
             "id": "e691768ed17a279f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/lists.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/lists.md"
+              }
             }
           }
         ]
@@ -138,6 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e691768ed17a279f",
-  "lastOpenFiles": []
+  "active": "a3d32f23b06d0eab",
+  "lastOpenFiles": [
+    "_posts/2024-09-28-experiences-toc.md",
+    "_posts/2024-09-28-experiences-toc",
+    "_posts/2024-09-28-hypnokink-toc.md",
+    "_posts/2024-09-28-links.md",
+    "pages/notes.md",
+    "pages/posts.md",
+    "pages/index.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Hidden Note.md"
+  ]
 }
